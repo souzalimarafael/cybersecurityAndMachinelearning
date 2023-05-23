@@ -1,4 +1,4 @@
-# cybersecurityAndMachinelearning
+# DEFESA CIBERNÉTICA COM APRENDIZADO DE MÁQUINA - ANÁLISE OU DETECÇÃO DE BOTNETS
 Repositório do trabalho de conclusão de curso
 
 Esse repositório possui 4 arquivos, o arquivo "cenarioFullDataset.ipynb" é onde fou trabalhado os scripts de importação do dataset e os plots dos gráficos. Nele é feita a concatenação dos 13 cenários da base dados afim de treinador o modelos com todos os dados disponíveis no estudo.
